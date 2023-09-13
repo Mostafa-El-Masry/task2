@@ -3,6 +3,8 @@ import Iframe from 'react-iframe'
 const Home = () => {
   return (
     <div >
+
+      <h1>Tables & videos & images & iframes</h1>
       <table className="table-auto">
   <thead>
     <tr>
