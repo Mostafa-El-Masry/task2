@@ -1,3 +1,4 @@
+
 import Image from 'next/image'
 
 const Home = () => {
@@ -22,7 +23,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -31,7 +32,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -40,7 +41,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -49,7 +50,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -58,7 +59,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -67,7 +68,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -76,7 +77,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -85,7 +86,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -94,7 +95,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -103,7 +104,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -112,7 +113,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -121,7 +122,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -130,7 +131,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -139,7 +140,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -148,7 +149,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -157,7 +158,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -166,7 +167,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -175,7 +176,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
@@ -184,7 +185,7 @@ const Home = () => {
       <td className="border px-4 py-2">858</td>
       <td className="border px-4 py-2">dump shit</td>
       <td className="border px-4 py-2">
-        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
+        <a href="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"><Image alt="" className="w-20 h-25" src="https://m.media-amazon.com/images/I/51M+z-t6QFL._SY445_SX342_.jpg"></Image></a>
       </td>
     </tr>
     <tr>
