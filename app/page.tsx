@@ -1,4 +1,3 @@
-import Iframe from 'react-iframe'
 import Image from 'next/image'
 
 const Home = () => {
